@@ -1,0 +1,16 @@
+.nav-header{
+    padding: 18px;
+    /* width: auto; */
+}
+.title-header-article{
+    font-size: 23px;
+    color: rgb(8, 29, 29);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.small-content{
+    font-weight: 500;
+}
+.image-small-content{
+    margin-bottom: 2%;
+}
